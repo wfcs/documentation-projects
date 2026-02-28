@@ -1,7 +1,7 @@
 # Documentação Técnica: copyjob_telemetry_tls
 
 > **Ambiente:** Microsoft Fabric — Synapse PySpark  
-> **Lakehouse padrão:** `lk_dados_raw` (ID: `9c3b03cd-2a8a-4157-a83b-9406002a5ceb`)  
+> **Lakehouse padrão:** `lk_dados_raw` 
 > **Schema de destino:** `telemetry_analytics`
 
 ---
